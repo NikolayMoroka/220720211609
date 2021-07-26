@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main >
-        <div id="app" style="max-width: 760px; margin: auto;">
+        <div id="app" style="max-width: 720px; margin: auto;">
             <div class="px-4 pt-4 pb-0">
               <Manager/>
               <Services/>
